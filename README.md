@@ -17,7 +17,7 @@
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nextjs,tailwind,firebase,mongodb,mysql,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nextjs,tailwind,firebase,mongodb,mysql,git,github" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 - 🤖 **AI-powered projects** (Healthcare, Education, and Smart IoT)  
 - 📝 Research papers + Patents in **Machine Learning & Deep Learning**  
 - 🌐 Building **MERN stack applications** like *DocScribd*  
-- 📚 Preparing for **Placements** (TCS, Accenture, Cognizant, Deloitte, EY)  
+- 📚 Upgrading **DocScribd**
 
 ---
 
